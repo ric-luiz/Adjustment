@@ -1,0 +1,179 @@
+24/Jan/2019:20:28:17 +0000 [ERROR 0 /index.php] PHP message: PHP Fatal error:  Trait 'App\SoftDeletes' not found in /var/www/app/User.php on line 12
+31/Jan/2019:20:18:17 +0000 [ERROR 502 /index.php] write tcp 172.25.0.5:80->172.25.0.1:54348: write: broken pipe
+31/Jan/2019:20:23:43 +0000 [ERROR 502 /index.php] write tcp 172.25.0.5:80->172.25.0.1:56118: write: broken pipe
+31/Jan/2019:20:27:05 +0000 [ERROR 502 /index.php] write tcp 172.25.0.5:80->172.25.0.1:57182: write: broken pipe
+31/Jan/2019:20:27:11 +0000 [ERROR 502 /index.php] write tcp 172.25.0.5:80->172.25.0.1:57188: write: broken pipe
+31/Jan/2019:20:27:55 +0000 [ERROR 502 /index.php] write tcp 172.25.0.5:80->172.25.0.1:57232: write: broken pipe
+31/Jan/2019:20:41:43 +0000 [ERROR 502 /index.php] write tcp 172.25.0.5:80->172.25.0.1:33506: write: broken pipe
+31/Jan/2019:20:50:19 +0000 [ERROR 502 /index.php] write tcp 172.25.0.5:80->172.25.0.1:35984: write: broken pipe
+31/Jan/2019:20:50:19 +0000 [ERROR 502 /index.php] write tcp 172.25.0.5:80->172.25.0.1:35924: write: broken pipe
+31/Jan/2019:20:58:44 +0000 [ERROR 502 /index.php] write tcp 172.25.0.5:80->172.25.0.1:38624: write: broken pipe
+31/Jan/2019:20:58:44 +0000 [ERROR 502 /index.php] write tcp 172.25.0.5:80->172.25.0.1:38622: write: broken pipe
+06/Feb/2019:19:16:49 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+06/Feb/2019:19:19:59 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+06/Feb/2019:19:21:51 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+06/Feb/2019:19:22:06 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+06/Feb/2019:19:25:34 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+06/Feb/2019:19:31:04 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+06/Feb/2019:19:32:37 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+PHP message: PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /var/www/app/Http/Controllers/RecursoApiController.php on line 20
+06/Feb/2019:19:33:04 +0000 [ERROR 0 /index.php] PHP message: PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 199233536 bytes) in /var/www/app/Http/Controllers/RecursoApiController.php on line 20
+06/Feb/2019:19:33:47 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+06/Feb/2019:19:35:33 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+06/Feb/2019:19:36:03 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+06/Feb/2019:19:36:13 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+06/Feb/2019:19:40:08 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+06/Feb/2019:19:43:50 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  File Upload Mime headers garbled in Unknown on line 0
+11/Feb/2019:18:41:21 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:55796: write: broken pipe
+11/Feb/2019:18:41:43 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:54412: write: broken pipe
+11/Feb/2019:18:51:46 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59166: write: broken pipe
+11/Feb/2019:19:03:20 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:34868: write: broken pipe
+11/Feb/2019:19:04:17 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:35022: write: broken pipe
+11/Feb/2019:19:16:30 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:39224: write: broken pipe
+15/Feb/2019:14:15:37 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51178: write: broken pipe
+15/Feb/2019:14:28:09 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51296: write: broken pipe
+15/Feb/2019:17:33:26 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:44236: write: broken pipe
+15/Feb/2019:17:48:10 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51588: write: broken pipe
+15/Feb/2019:17:52:35 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:53008: write: broken pipe
+18/Feb/2019:14:09:17 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59598: write: broken pipe
+18/Feb/2019:14:13:41 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59620: write: broken pipe
+18/Feb/2019:14:15:36 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59660: write: broken pipe
+18/Feb/2019:14:35:13 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:53716: write: broken pipe
+18/Feb/2019:14:42:34 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:53782: write: broken pipe
+18/Feb/2019:15:12:19 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:36518: write: broken pipe
+18/Feb/2019:17:48:44 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:37288: write: broken pipe
+18/Feb/2019:17:50:11 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:37316: write: broken pipe
+18/Feb/2019:17:52:45 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:38628: write: broken pipe
+18/Feb/2019:18:12:33 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:44628: write: broken pipe
+18/Feb/2019:18:26:08 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:48948: write: broken pipe
+18/Feb/2019:18:32:11 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51496: write: broken pipe
+18/Feb/2019:18:32:30 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51524: write: broken pipe
+18/Feb/2019:18:34:34 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:52034: write: broken pipe
+18/Feb/2019:18:49:26 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:56810: write: broken pipe
+18/Feb/2019:18:50:37 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:57352: write: broken pipe
+18/Feb/2019:18:50:53 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:57386: write: broken pipe
+18/Feb/2019:18:58:00 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:38884: write: broken pipe
+18/Feb/2019:18:58:06 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:38898: write: broken pipe
+18/Feb/2019:19:00:41 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:38950: write: broken pipe
+18/Feb/2019:19:03:00 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:39010: write: broken pipe
+18/Feb/2019:19:14:27 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:39322: write: broken pipe
+18/Feb/2019:19:15:40 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:39436: write: broken pipe
+18/Feb/2019:19:42:26 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:39632: write: broken pipe
+18/Feb/2019:19:52:17 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:39856: write: broken pipe
+18/Feb/2019:20:06:12 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:39940: write: broken pipe
+18/Feb/2019:20:07:11 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:39998: write: broken pipe
+19/Feb/2019:13:30:10 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:43674: write: broken pipe
+19/Feb/2019:13:30:30 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:43668: write: broken pipe
+19/Feb/2019:13:37:46 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:43830: write: broken pipe
+19/Feb/2019:14:34:13 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:46470: write: broken pipe
+25/Feb/2019:20:06:09 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  POST Content-Length of 80430228 bytes exceeds the limit of 20971520 bytes in Unknown on line 0
+25/Feb/2019:20:07:11 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  POST Content-Length of 22578754 bytes exceeds the limit of 20971520 bytes in Unknown on line 0
+25/Feb/2019:20:08:53 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  POST Content-Length of 22578754 bytes exceeds the limit of 20971520 bytes in Unknown on line 0
+25/Feb/2019:20:11:39 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  POST Content-Length of 22578754 bytes exceeds the limit of 20971520 bytes in Unknown on line 0
+25/Feb/2019:20:12:15 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  POST Content-Length of 22578754 bytes exceeds the limit of 20971520 bytes in Unknown on line 0
+25/Feb/2019:20:15:29 +0000 [ERROR 0 /index.php] PHP message: PHP Warning:  POST Content-Length of 22578754 bytes exceeds the limit of 20971520 bytes in Unknown on line 0
+25/Feb/2019:21:01:01 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:36390: write: broken pipe
+25/Feb/2019:21:01:17 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:45740: write: broken pipe
+26/Feb/2019:18:22:27 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51620: write: broken pipe
+26/Feb/2019:18:22:43 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51628: write: broken pipe
+26/Feb/2019:18:22:50 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51626: write: broken pipe
+26/Feb/2019:18:23:05 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51666: write: broken pipe
+26/Feb/2019:18:32:25 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51694: write: broken pipe
+26/Feb/2019:19:06:17 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:36978: write: broken pipe
+26/Feb/2019:19:11:59 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:38866: write: broken pipe
+26/Feb/2019:19:31:59 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:45136: write: broken pipe
+26/Feb/2019:20:11:41 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:58272: write: broken pipe
+26/Feb/2019:20:12:23 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51680: write: broken pipe
+26/Feb/2019:20:54:33 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:43938: write: broken pipe
+27/Feb/2019:14:52:34 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:60978: write: broken pipe
+27/Feb/2019:17:03:57 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:45564: write: broken pipe
+27/Feb/2019:17:04:13 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:45636: write: broken pipe
+27/Feb/2019:17:11:18 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:49452: write: broken pipe
+27/Feb/2019:17:38:12 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:58090: write: broken pipe
+27/Feb/2019:17:56:20 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:36080: write: broken pipe
+27/Feb/2019:18:40:00 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50120: write: broken pipe
+27/Feb/2019:19:11:08 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:60312: write: broken pipe
+27/Feb/2019:19:20:09 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:35496: write: broken pipe
+27/Feb/2019:19:37:47 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:35606: write: broken pipe
+27/Feb/2019:19:50:46 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:45382: write: broken pipe
+28/Feb/2019:15:19:02 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:38876: write: broken pipe
+28/Feb/2019:15:26:56 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:38894: write: broken pipe
+28/Feb/2019:15:35:18 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:38958: write: broken pipe
+28/Feb/2019:15:35:57 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:38964: write: broken pipe
+28/Feb/2019:15:56:07 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:39086: write: broken pipe
+28/Feb/2019:15:59:08 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:39930: write: broken pipe
+28/Feb/2019:16:01:43 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:40798: write: broken pipe
+28/Feb/2019:16:01:59 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:40884: write: broken pipe
+28/Feb/2019:16:02:13 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:40980: write: broken pipe
+28/Feb/2019:16:02:17 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:41066: write: broken pipe
+28/Feb/2019:16:02:20 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:41106: write: broken pipe
+28/Feb/2019:16:02:36 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:41152: write: broken pipe
+28/Feb/2019:16:06:44 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:42480: write: broken pipe
+28/Feb/2019:16:07:11 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:42652: write: broken pipe
+28/Feb/2019:16:11:04 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:43874: write: broken pipe
+28/Feb/2019:16:11:24 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:44010: write: broken pipe
+28/Feb/2019:16:12:07 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:44264: write: broken pipe
+28/Feb/2019:16:13:56 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:44866: write: broken pipe
+28/Feb/2019:16:16:58 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:45844: write: broken pipe
+28/Feb/2019:16:18:20 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:46298: write: broken pipe
+28/Feb/2019:16:47:30 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50670: write: broken pipe
+28/Feb/2019:16:47:44 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50694: write: broken pipe
+28/Feb/2019:16:47:54 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50716: write: broken pipe
+28/Feb/2019:16:48:10 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50738: write: broken pipe
+28/Feb/2019:16:48:27 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50760: write: broken pipe
+28/Feb/2019:16:48:54 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50782: write: broken pipe
+28/Feb/2019:16:50:00 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50834: write: broken pipe
+28/Feb/2019:16:50:20 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50866: write: broken pipe
+28/Feb/2019:16:50:43 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50888: write: broken pipe
+28/Feb/2019:16:52:53 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50916: write: broken pipe
+28/Feb/2019:17:00:11 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50964: write: broken pipe
+28/Feb/2019:17:00:14 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50992: write: broken pipe
+28/Feb/2019:17:00:30 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51012: write: broken pipe
+28/Feb/2019:17:00:57 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51038: write: broken pipe
+28/Feb/2019:17:04:32 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51076: write: broken pipe
+28/Feb/2019:17:06:12 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51098: write: broken pipe
+28/Feb/2019:17:24:14 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:51162: write: broken pipe
+14/Mar/2019:20:33:00 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50538: write: broken pipe
+14/Mar/2019:20:33:37 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50580: write: broken pipe
+14/Mar/2019:20:34:16 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50610: write: broken pipe
+14/Mar/2019:20:34:16 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:50594: write: broken pipe
+19/Mar/2019:18:45:17 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:58416: write: broken pipe
+19/Mar/2019:18:45:32 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:58408: write: broken pipe
+19/Mar/2019:21:39:09 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59164: write: broken pipe
+19/Mar/2019:21:39:13 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59208: write: broken pipe
+19/Mar/2019:21:39:28 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59216: write: broken pipe
+19/Mar/2019:21:39:28 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59214: write: broken pipe
+19/Mar/2019:21:39:56 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59254: write: broken pipe
+19/Mar/2019:21:39:56 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59244: write: broken pipe
+19/Mar/2019:21:41:22 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59412: write: broken pipe
+19/Mar/2019:21:41:37 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59410: write: broken pipe
+19/Mar/2019:21:41:37 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59394: write: broken pipe
+19/Mar/2019:21:42:54 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:59528: write: broken pipe
+20/Mar/2019:21:33:19 +0000 [ERROR 502 /index.php] write tcp 172.21.0.5:80->172.21.0.1:32874: write: broken pipe
+28/Mar/2019:22:05:56 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:42930: write: broken pipe
+29/Mar/2019:19:16:05 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:36726: write: broken pipe
+29/Mar/2019:19:16:22 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:36730: write: broken pipe
+29/Mar/2019:19:16:23 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:36738: write: broken pipe
+29/Mar/2019:19:17:07 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:36742: write: broken pipe
+29/Mar/2019:19:17:07 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:36746: write: broken pipe
+29/Mar/2019:19:26:26 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:36760: write: broken pipe
+29/Mar/2019:19:26:26 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:36764: write: broken pipe
+29/Mar/2019:19:26:37 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:36768: write: broken pipe
+29/Mar/2019:19:26:37 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:36772: write: broken pipe
+29/Mar/2019:19:29:57 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:36776: write: broken pipe
+29/Mar/2019:19:29:57 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:36780: write: broken pipe
+29/Mar/2019:21:43:45 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:40964: write: broken pipe
+29/Mar/2019:21:43:45 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:40980: write: broken pipe
+29/Mar/2019:21:43:56 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:40982: write: broken pipe
+29/Mar/2019:21:55:55 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:44656: write: broken pipe
+03/Apr/2019:14:23:08 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:48760: write: broken pipe
+03/Apr/2019:14:29:04 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:48800: write: broken pipe
+03/Apr/2019:14:29:05 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:48808: write: broken pipe
+03/Apr/2019:14:33:56 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:48812: write: broken pipe
+03/Apr/2019:14:33:57 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:48816: write: broken pipe
+03/Apr/2019:14:40:10 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:48828: write: broken pipe
+03/Apr/2019:14:40:20 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:48834: write: broken pipe
+03/Apr/2019:14:40:49 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:48844: write: broken pipe
+03/Apr/2019:14:40:50 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:48854: write: broken pipe
+03/Apr/2019:16:52:19 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:49114: write: broken pipe
+03/Apr/2019:16:56:35 +0000 [ERROR 502 /index.php] write tcp 172.18.0.4:80->172.18.0.1:49158: write: broken pipe

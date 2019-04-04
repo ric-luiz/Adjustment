@@ -1,0 +1,33 @@
+# Docs: https://caddyserver.com/docs/caddyfile
+https://app.raplus.com.br, https://www.app.raplus.com.br, http://app.raplus.com.br/storage/, http://app.raplus.com.br/public {
+    root /var/www/public
+    fastcgi / php-fpm:9000 php {
+        index index.php
+        connect_timeout 600s
+	    read_timeout    600s
+	    send_timeout    600s
+    }
+
+    # To handle .html extensions with laravel change ext to
+    # ext / .html
+
+    rewrite {
+        to {path} {path}/ /index.php?{query}
+    }
+    gzip
+    browse
+    log /var/log/caddy/access.log
+    errors /var/log/caddy/error.log
+    # Uncomment to enable TLS (HTTPS)
+    # Change the first list to listen on port 443 when enabling TLS
+    tls contato@raplus.com.br
+
+    # To use Lets encrpt tls with a DNS provider uncomment these
+    # lines and change the provider as required
+    #tls {
+    #  dns cloudflare
+    #}
+
+    timeouts 0
+
+}

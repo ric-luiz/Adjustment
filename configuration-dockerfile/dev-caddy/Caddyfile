@@ -1,0 +1,25 @@
+# Docs: https://caddyserver.com/docs/caddyfile
+localhost:80, 192.168.15.3:80 {
+    root /var/www/public
+    fastcgi / php-fpm:9000 php {
+        index index.php
+        connect_timeout 600s
+	    read_timeout    600s
+	    send_timeout    600s
+    }
+
+    # To handle .html extensions with laravel change ext to
+    # ext / .html
+
+    tls /etc/caddy/default.crt /etc/caddy/default.key 
+
+    rewrite {
+        to {path} {path}/ /index.php?{query}
+    }
+    gzip
+    browse
+    log /var/log/caddy/access.log
+    errors /var/log/caddy/error.log
+
+    timeouts 0
+}
