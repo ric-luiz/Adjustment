@@ -1,0 +1,54 @@
+version: '2'
+
+services:
+  php-fpm:
+    build:
+      context: ./
+      dockerfile: dev-php-fpm.Dockerfile
+      args:
+        - LARADOCK_PHP_VERSION=${PHP_VERSION}
+    volumes:
+      - ./configuration-dockerfile/php-fpm/php7.2.ini:/usr/local/etc/php/php.ini
+      - ./configuration-dockerfile/php-fpm/laravel.ini:/usr/local/etc/php/conf.d/laravel.ini
+      - ./configuration-dockerfile/php-fpm/xlaravel.pool.conf:/usr/local/etc/php-fpm.d/xlaravel.pool.conf
+      - ${APP_CODE_PATH_HOST}:${APP_CODE_PATH_CONTAINER}
+
+  postgres:
+      build:
+        context: ./
+        dockerfile: dev-postgres.Dockerfile
+      volumes:
+        - ${DATA_PATH_HOST}/postgres:/var/lib/postgresql/data
+        - ${POSTGRES_ENTRYPOINT_INITDB}:/docker-entrypoint-initdb.d
+      ports:
+        - "${POSTGRES_PORT}:5432"
+      environment:
+        - POSTGRES_DB=${POSTGRES_DB}
+        - POSTGRES_USER=${POSTGRES_USER}
+        - POSTGRES_PASSWORD=${POSTGRES_PASSWORD}
+
+  pgadmin:
+      build:
+        context: ./
+        dockerfile: dev-pgadmin.Dockerfile
+      volumes:
+      - ${DATA_PATH_HOST}/pgadmin-backup:/var/lib/pgadmin/storage/pgadmin4
+      - ${DATA_PATH_HOST}/pgadmin/
+      ports:
+        - "5050:5050"
+
+  caddy:
+      build:
+        context: ./
+        dockerfile: dev-caddy.Dockerfile
+      volumes:
+        - ${APP_CODE_PATH_HOST}:${APP_CODE_PATH_CONTAINER}
+        - ./configuration-dockerfile/dev-caddy:/etc/caddy
+        - ./configuration-dockerfile/dev-caddy/logs/caddy:/var/log/caddy
+        - ${DATA_PATH_HOST}:/root/.caddy
+      ports:
+        - "8080:80"
+        - "4430:443"
+      links:
+        - php-fpm
+        - postgres
