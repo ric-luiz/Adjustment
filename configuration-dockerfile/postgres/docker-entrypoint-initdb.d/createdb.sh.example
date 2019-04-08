@@ -25,9 +25,9 @@
 #     CREATE DATABASE db2;
 #     GRANT ALL PRIVILEGES ON DATABASE db2 TO db2;
 # EOSQL
-# 
-# psql -v ON_ERROR_STOP=1 --username "$POSTGRES_USER" --dbname "$POSTGRES_DB" <<-EOSQL
-#     CREATE USER db3 WITH PASSWORD 'db3';
-#     CREATE DATABASE db3;
-#     GRANT ALL PRIVILEGES ON DATABASE db3 TO db3;
-# EOSQL
+
+psql -v ON_ERROR_STOP=1 --username "$POSTGRES_USER" --dbname "$POSTGRES_DB"" <<-EOSQL
+    CREATE USER adjadmin WITH PASSWORD 'adjadmin';
+    CREATE DATABASE adjustment;
+    GRANT ALL PRIVILEGES ON DATABASE adjustment TO adjadmin;
+EOSQL
